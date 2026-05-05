@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Regalstring
+comment1.params=pRegal
+comment1.target=Regalstring(java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Regalstring\r\n
+comment2.params=
+comment2.target=boolean\ istRegalstring()
+comment3.params=
+comment3.target=java.lang.String\ getRegalstring()
+comment4.params=
+comment4.target=int\ gibBreite()
+comment5.params=
+comment5.target=int\ gibHoehe()
+comment6.params=
+comment6.target=char\ gibElement()
+comment7.params=
+comment7.target=java.awt.Color\ gibFarbe()
+numComments=8

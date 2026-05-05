@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Schrank
+comment1.params=pX\ pY\ pBreite\ pHoehe\ pFarbe
+comment1.target=Schrank(int,\ int,\ int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Schrank\r\n
+numComments=2

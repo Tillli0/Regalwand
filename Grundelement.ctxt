@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Grundelement
+comment1.params=pRasterBreite\ pRasterHoehe\ pFarbe
+comment1.target=Grundelement(int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Regal\r\n
+comment2.params=breite\ hoehe\ rand\ farbe
+comment2.target=sas.Sprite\ rechteckMitRand(int,\ int,\ int,\ java.awt.Color)
+comment3.params=
+comment3.target=sas.Sprite\ gibGrafik()
+comment4.params=
+comment4.target=int\ hoeheInPixel()
+comment5.params=
+comment5.target=int\ breiteInPixel()
+comment6.params=pX\ pY
+comment6.target=void\ setPosition(int,\ int)
+numComments=7
